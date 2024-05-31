@@ -1,0 +1,24 @@
+{
+  "routes":[
+    {
+      "src":"/",
+      "dest":"/"
+    },
+    {
+      "src":"/resume",
+      "dest":"/"
+    },
+    {
+      "src":"/portfolio",
+      "dest":"/"
+    },
+    {
+      "src":"/blogs",
+      "dest":"/"
+    },
+    {
+      "src":"/contact",
+      "dest":"/"
+    }
+  ]
+}
