@@ -45,13 +45,8 @@ const About = () => {
 
     <section className="about-text">
       <p>
-        I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media.
-        I enjoy
-        turning complex problems into simple, beautiful and intuitive designs.
-      </p>
+      Passionate and skilled Frontend Developer adept at crafting responsive web applications using HTML, CSS, and JavaScript, with  expertise  in  modern  frameworks  like  ReactJS  and tailwindCss. Proficient in utilizing Firebase for backend services, dedicated to delivering high-quality code and collaborating with cross-functional teams. Seeking opportunities to leverage this skill set in a dynamic development environment, contributing to innovative projects and continuously expanding proficiency
 
-      <p>
-      Passionate and skilled Frontend Developer adept at crafting responsive web applications using HTML, CSS, and JavaScript, with expertise in modern frameworks like ReactJS and tailwindCss. Proficient in utilizing Firebase for backend services, dedicated to delivering high-quality code and collaborating with cross-functional teams. Seeking opportunities to leverage this skill set in a dynamic development environment, contributing to innovative projects and continuously expanding proficiency
       </p>
     </section>
 

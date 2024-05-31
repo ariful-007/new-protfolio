@@ -21,17 +21,17 @@ const Resume = () => {
           <TimelineItem
             title="Govt Titumir College"
             date="2014 — 2015"
-            description="Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+            description="I completed my Honors in Bengali from Govt Titumir College, gaining deep insights into Bengali literature. Studying authors like Rabindranath Tagore and Kazi Nazrul Islam, I developed strong analytical skills. Faculty support and seminar participation enriched my academic journey."
           />
           <TimelineItem
             title="A.M.M.M College"
             date="2012 — 2014"
-            description="Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis."
+            description="I completed my Intermediate from Alamgir Mansoor Mintu Memorial College, where I developed a strong academic foundation. This experience prepared me for further studies and provided valuable skills for my educational journey."
           />
           <TimelineItem
             title="Enayetpur High School"
             date="2007 — 2012"
-            description="Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+            description="I completed my education at Enayetpur High School, where I gained a solid academic foundation and essential skills, preparing me well for further studies and future endeavors."
           />
         </ol>
       </div>
@@ -45,19 +45,14 @@ const Resume = () => {
         </div>
         <ol className="timeline-list">
           <TimelineItem
-            title="Creative director"
-            date="2015 — Present"
-            description="Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
+            title="Frontend Development With React js"
+            date="2023 — Present"
+            description="I completed a course in Frontend Development with React.js, mastering the fundamentals of building dynamic user interfaces. Through hands-on projects, I gained expertise in React.js concepts such as components, state management, and routing, empowering me to create efficient and interactive web applications."
           />
           <TimelineItem
-            title="Art director"
-            date="2013 — 2015"
-            description="Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
-          />
-          <TimelineItem
-            title="Web designer"
-            date="2010 — 2013"
-            description="Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+            title="Responsive Web Design"
+            date="2022 — 2024"
+            description="I completed a course in Responsive Web Design, learning to create flexible, mobile-friendly websites. The course covered HTML, CSS, and media queries, equipping me with skills to build and optimize web pages for various devices and screen sizes"
           />
         </ol>
       </div>
@@ -65,10 +60,12 @@ const Resume = () => {
       <div className="skill">
         <h3 className="h3 skills-title">My skills</h3>
         <ul className="skills-list content-card">
-          <SkillItem title="Web design" value={80} />
-          <SkillItem title="Graphic design" value={70} />
-          <SkillItem title="Branding" value={90} />
-          <SkillItem title="WordPress" value={50} />
+          <SkillItem title="HTML" value={90} />
+          <SkillItem title="CSS" value={80} />
+          <SkillItem title="javaScript" value={60} />
+          <SkillItem title="React JS" value={70} />
+          <SkillItem title="Tailwind Css" value={80} />
+          <SkillItem title="Bootstrap 5" value={70} />
         </ul>
       </div>
     </section>

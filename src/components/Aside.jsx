@@ -4,14 +4,9 @@ const Aside = () => {
   return (
     <aside className="sidebar">
         <div className="sidebar-info">
-          <figure className="avatar-box">
-            <img
-              src="../../public/images/ariful.jpg"
-              alt="Ariful-Islam"
-              width="80"
-            />
-          </figure>
-
+          <div className="avatar-box">
+            <img src="../../public/images/ariful.jpg" alt="Ariful-islam" width='80' />
+          </div>
           <div className="info-content">
             <h1 className="name" title="Richard hanrick">
               Ariful Islam
