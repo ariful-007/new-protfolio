@@ -323,12 +323,11 @@ main {
 }
 
 .avatar-box {
-  background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .avatar-box img{
-  border-radius: 20px;
+  border-radius: 10px;
 }
 .info-content .name {
   color: var(--white-2);
